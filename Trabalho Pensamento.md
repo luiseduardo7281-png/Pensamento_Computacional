@@ -9,3 +9,11 @@ led verde, quando acionamos o botão 2 abre apenas o lado direito e acende o seg
 acionamos o botão 3 abre ambos os lados do portão e acende o led azul e por fim, quando acionamos o botão 4 o portão fica completamente fechado, acendendo 
 assim ambos os leds vermelhos. Saliento que durante toda e qualquer movimentação dos portões o led amarelo acende.
 
+![imagem do circuito](circuito.jpeg)
+
+![imagem do codigo](codigo1.jpeg)
+
+![imagem do codigo](codigo2.jpeg)
+
+![imagem do codigo](codigo3.jpeg)
+
