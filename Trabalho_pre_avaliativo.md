@@ -31,3 +31,9 @@ a luz estiver no estado médio(Valor Y), acenderá a luz de cor amarela. Se(IF) 
 botão 1 for pressionado, ativará o modo onde o LDR identificará a luz e acenderá as luz de acordo com o estado da luz. Se(IF) botão 2 for pressionado, ativará
 a luz vermelha no LED RGB, ignorando a entrada do LDR. Se(IF) botão 3 for pressionado, o LED RGB se desligará e ignorará a entrada do LDR. Se(IF) mais de um
 botão for pressionado, o LED RGB se desligará.
+
+![imagem do circuito real](Circuito_trab.jpeg)
+
+![imagem do circuito no tinker](Circuito_tinker.jpeg)
+
+![imagem do circuito](Cod_circuito.jpeg)
