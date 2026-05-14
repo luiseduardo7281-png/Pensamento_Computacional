@@ -34,6 +34,6 @@ botão for pressionado, o LED RGB se desligará.
 
 ![imagem do circuito real](Circuito_trab.jpeg)
 
-![imagem do circuito no tinker](Circuito_tinker.jpeg)
+![imagem do circuito no tinker](Circuito_tinker.png)
 
-![imagem do circuito](Cod_circuito.jpeg)
+![imagem do circuito](Cod_circuito.png)
